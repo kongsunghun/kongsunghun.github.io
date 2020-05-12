@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "공성훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Running**도 하고\n**Learning**도 하는\n프로그래머입니다."
+  bio              : "**Running**도 하고 **Learning**도 하는 프로그래머입니다."
   location         : "경기도 하남"
   email            : "kongom2gmail.com"
   links:
