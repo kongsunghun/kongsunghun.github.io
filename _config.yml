@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "공성훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**Running**도 하고, **Learning**도 하는 프로그래머입니다."
+  location         : "경기도 하남"
+  email            : "kongom2gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
