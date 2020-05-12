@@ -98,6 +98,8 @@ author:
   bio              : "**Running**도 하고 **Learning**도 하는 프로그래머입니다."
   location         : "경기도 하남"
   email            : "kongom2gmail.com"
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9108512/latest-rides/40100b302159e58cccf79966d26ccdcd8e5f8986'></iframe>
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -105,8 +107,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Strava"
+      icon: "fab fa-strava"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
